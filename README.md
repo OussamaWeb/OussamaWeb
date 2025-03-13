@@ -12,10 +12,10 @@
 
 <p align="justify">I'm a beginner Web Developer passionate about building clean, functional, and user-friendly web applications. I focus on writing well-structured code with modern standards and best practices.</p>
 
-- <p align="justify">🌱 Currently improving my JavaScript skills and learning DOM manipulation</p>
-- <p align="justify">🔭 Working on building my portfolio with responsive web projects</p>
-- <p align="justify">🎯 Aiming to become a Full-Stack Developer with strong fundamentals</p>
-- <p align="justify">💡 Interested in UI/UX principles and accessible web design</p>
+- 🌱 Currently improving my JavaScript skills and learning DOM manipulation
+- 🔭 Working on building my portfolio with responsive web projects
+- 🎯 Aiming to become a Full-Stack Developer with strong fundamentals
+- 💡 Interested in UI/UX principles and accessible web design
 
 ## Technologies & Tools
 
