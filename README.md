@@ -24,11 +24,11 @@ I'm a beginner Web Developer passionate about building clean, functional, and us
     <tr>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
-        <br><strong>HTML5</strong>
+        <br><strong>HTML</strong>
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
-        <br><strong>CSS3</strong>
+        <br><strong>CSS</strong>
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
