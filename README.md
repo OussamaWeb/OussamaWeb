@@ -34,14 +34,6 @@ I'm a beginner Web Developer passionate about building clean, functional, and us
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
         <br><strong>JavaScript</strong>
       </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-        <br><strong>GitHub</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-        <br><strong>VS Code</strong>
-      </td>
     </tr>
   </table>
 </div>
