@@ -36,19 +36,19 @@
 ## Professional Summary
 
 ```javascript
-const oussama = {
-  role: "Beginner Frontend Web Developer",
-  skills: {
-    languages: ["HTML", "CSS", "Basic JavaScript"],
-    focus: ["Responsive Design", "Improving CSS Skills"],
-    learning: ["JavaScript Fundamentals", "DOM Manipulation"]
-  },
-  currentFocus: "Understanding JavaScript deeply and improving CSS skills",
-  professionalInterests: [
-    "Building interactive websites",
-    "Mastering JavaScript",
-    "Learning modern styling techniques"
-  ]
+const oussama = {  
+  role: "Aspiring Frontend Developer",  
+  skills: {  
+    languages: ["HTML", "CSS", "Basic JavaScript"],  
+    learning: ["JavaScript Basics", "DOM Manipulation"],  
+    improving: ["CSS Skills", "Responsive Design"]  
+  },  
+  currentGoal: "Getting better at JavaScript and CSS",  
+  interests: [  
+    "Creating simple and interactive websites",  
+    "Learning more about JavaScript",  
+    "Exploring better ways to style web pages"  
+  ]  
 };
 ```
 
