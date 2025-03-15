@@ -10,12 +10,7 @@
 
 ## About Me
 
-<p align="justify">I'm a beginner Web Developer passionate about building clean, functional, and user-friendly web applications. I focus on writing well-structured code with modern standards and best practices.</p>
-
-- 🌱 Currently improving my JavaScript skills and learning DOM manipulation
-- 🔭 Working on building my portfolio with responsive web projects
-- 🎯 Aiming to become a Full-Stack Developer with strong fundamentals
-- 💡 Interested in UI/UX principles and accessible web design
+<p align="justify">I'm a beginner Web Developer who loves building simple, responsive, and easy-to-use websites. I'm learning how to write clean and well-organized code while following good practices to create better web projects.</p>
 
 ## Technologies & Tools
 
