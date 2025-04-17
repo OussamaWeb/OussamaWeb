@@ -8,11 +8,12 @@
 ## 👨‍💻 About Me
 
 <div align="justify">
-  I'm a passionate Frontend Web Developer who enjoys crafting beautiful, responsive websites that deliver exceptional user experiences. My approach combines clean code with creative design to build intuitive web interfaces.
+  I'm a passionate <strong>Frontend Web Developer</strong> who enjoys crafting beautiful, responsive websites that deliver exceptional user experiences. I focus on writing clean, maintainable code while incorporating creative design to bring intuitive user interfaces to life.
 </div>
 
 ## 🛠️ Tech Stack
 
+<!-- First Table: HTML, CSS, JavaScript -->
 <div align="center">
   <table>
     <tr>
@@ -28,34 +29,44 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
         <br><b>JavaScript</b>
       </td>
-      <td align="center" width="96">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
-        <br><b>Tailwind</b>
-      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Second Table: React, Tailwind, npm -->
+<div align="center">
+  <table>
+    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
         <br><b>React</b>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-        <br><b>Git</b>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
+        <br><b>Tailwind</b>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm"/>
         <br><b>npm</b>
       </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Third Table: Figma, Git, GitHub -->
+<div align="center">
+  <table>
+    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
         <br><b>Figma</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-        <br><b>VS Code</b>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+        <br><b>Git</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="filter: invert(100%);"/>
         <br><b>GitHub</b>
       </td>
     </tr>
